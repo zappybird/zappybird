@@ -12,12 +12,37 @@ Cybersecurity student • Developer • Always building & learning
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zappybird&show_icons=true&theme=onedark&hide_title=true&hide_border=true&count_private=true" />
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zappybird&theme=onedark&hide_border=true" />
+</div>
+
+---
+
+
+## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=zappybird&show_icons=true&theme=onedark" />
 
 ---
 
 ## 🔥 GitHub Streak
 <img src="https://streak-stats.demolab.com?user=zappybird&theme=onedark" />
+
+---
+
+## 📘 Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zappybird&layout=compact&theme=onedark&hide_border=true" />
+</div>
 
 ---
 
