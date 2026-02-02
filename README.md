@@ -7,8 +7,7 @@ Cybersecurity student • Developer • Always building & learning
 ---
 
 ## 🏆 GitHub Profile Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=zappybird&theme=onedark&margin-w=15&margin-h=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="https://github-profile-trophy.vercel.app/?username=zappybird&theme=onedark&margin-w=15&margin-h=15&column=4" />
 ---
 
 ## 📊 GitHub Stats
