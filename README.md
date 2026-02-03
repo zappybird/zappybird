@@ -10,7 +10,7 @@ Cybersecurity student • Ethical hacker • Always building & learning
 ## 🏆 GitHub Profile Trophies
 
 <p align="center">
-  <img src="./streak-stats.svg" />
+  <img src="./trophy.svg" />
 </p>
 
 ---
