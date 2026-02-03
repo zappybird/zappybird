@@ -10,7 +10,7 @@ Cybersecurity student • Ethical hacker • Always building & learning
 ## 🏆 GitHub Profile Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-fo-ccvwv2wew.vercel.app/?username=zappybird&theme=onedark&column=4&margin-w=15&margin-h=15" />
+  <img src="./streak-stats.svg" />
 </p>
 
 ---
