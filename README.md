@@ -22,7 +22,7 @@ Cybersecurity student • Ethical hacker • Always building & learning
 ---
 
 ## 📘 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zappybird&layout=compact&theme=onedark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zappybird&layout=compact&theme=onedark&hide_border=true&cache_seconds=0" />
 
 ---
 
