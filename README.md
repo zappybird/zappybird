@@ -1,4 +1,3 @@
-<div align="center">
 
 # 👋 Hi, I'm Carlos (zappybird)
 
@@ -12,7 +11,7 @@ Cybersecurity student • Ethical hacker • Always building & learning
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=zappybird&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=zappybird&show_icons=true&theme=onedark&hide_border=true&count_private=true&cache_seconds=86400" />
 
 ---
 
@@ -22,22 +21,21 @@ Cybersecurity student • Ethical hacker • Always building & learning
 ---
 
 ## 📘 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zappybird&layout=compact&theme=onedark&hide_border=true&cache_seconds=0" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zappybird&layout=compact&theme=onedark&hide_border=true&cache_seconds=86400" />
 
 ---
 
 ## 🧰 Languages & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
-</div>
+---
 
 <div align="center" style="transform: scale(0.35); transform-origin: top center;"> <pre style="font-size:5px; line-height:4px;">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
                                                   
@@ -70,25 +68,20 @@ Cybersecurity student • Ethical hacker • Always building & learning
 ---
 
 ## 👨‍💻 About Me
-
-I'm a cybersecurity student focused on systems programming, reverse engineering, and building technical labs.  
-Always learning, always improving, always building.
+I'm a cybersecurity student focused on systems programming, reverse engineering, and building technical labs.
 
 ---
 
 ## 📫 Contact Me
-
-<div align="center">
+<p align="center">
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/your-link-here">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+</p>
 
 ---
 
 ### 🚀 Thanks for stopping by!
-
-</div>
