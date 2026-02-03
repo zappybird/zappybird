@@ -10,7 +10,7 @@ Cybersecurity student • Ethical hacker • Always building & learning
 ## 🏆 GitHub Profile Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zappybird&theme=onedark&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-stats-fo-3elryhxek.vercel.app/api?username=zappybird&show_icons=true&theme=onedark&hide_border=true&count_private=true&cache_seconds=0" />
 </p>
 
 ---
@@ -26,7 +26,7 @@ Cybersecurity student • Ethical hacker • Always building & learning
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zappybird&theme=onedark&hide_border=true" />
+  <img src="https://github-readme-streak-stats-fo-7k7dr4u1b.vercel.app?user=zappybird&theme=onedark&hide_border=true" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ Cybersecurity student • Ethical hacker • Always building & learning
 ## 📘 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zappybird&layout=compact&theme=onedark&hide_border=true&cache_seconds=0" />
+  <img src="https://github-readme-stats-fo-3elryhxek.vercel.app/api/top-langs/?username=zappybird&layout=compact&theme=onedark&hide_border=true&cache_seconds=0" />
 </p>
 
 ---
