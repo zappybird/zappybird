@@ -1,5 +1,8 @@
 name: Generate Trophy
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -9,6 +12,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate Trophy
         uses: ryo-ma/github-profile-trophy@master
         with:
@@ -16,3 +21,12 @@ jobs:
           theme: onedark
           margin-w: 15
           margin-h: 15
+          output: profile/trophy.svg
+
+      - name: Commit trophy.svg
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/trophy.svg
+          git commit -m "Update trophy" || exit 0
+          git push
