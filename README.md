@@ -10,11 +10,20 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=zappybird&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zappybird&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zappybird&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Streak Stats --> 
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<img 
+  src="https://streak-stats.demolab.com?user=zappybird&theme=transparent&hide_border=false" 
+  height="165" 
+  /> 
+</a>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zappybird&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img 
+  src="https://github-contributor-stats.vercel.app/api?username=zappybird&limit=5&theme=transparent&combine_all_yearly_contributions=true" 
+  />
+
+---
 
 <div align="center" style="width: 200px; overflow: hidden; transform: scale(0.35); transform-origin: top center;"> 
   <pre style="font-size:3px; line-height:3px;">
