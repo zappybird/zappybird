@@ -15,6 +15,33 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zappybird&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<div align="center" style="transform: scale(0.25); transform-origin: top center;"> 
+  <pre style="font-size:3px; line-height:3px;">
+                                                    
+                               %*                 
+                              %%#@                
+                              #%                  
+                              %@                  
+                             #@                   
+                            #%                    
+                            *@                    
+                           #@                     
+                 ##*+**###+%@                     
+                        *+#@%%%                   
+                        +#%@  %##                 
+                       **#@      %#               
+                       +%@@                       
+                      +%%@                        
+                     +*#@                         
+                     +%%@       @@@@              
+                    +%#@      @@                  
+                   %*#@@@@@@@@                    
+                   *%%  @@@@      @@              
+                  *%%@@@@                         
+                  #%@@@                           
+                 #@%                              
+
+</pre> </div>⠀
 ---
 [![](https://visitcount.itsvg.in/api?id=zappybird&icon=0&color=0)](https://visitcount.itsvg.in)
 
