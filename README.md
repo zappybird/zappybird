@@ -1,4 +1,3 @@
-
 ### 🚀 Thanks for stopping by!
 
 # 👋 Hi, I'm Carlos (zappybird)
@@ -10,7 +9,7 @@ Cybersecurity student • Ethical hacker • Always building & learning
 ## 🏆 GitHub Profile Trophies
 
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=zappybird)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=zappybird&theme=onedark" />
 </p>
 
 ---
@@ -52,8 +51,9 @@ Cybersecurity student • Ethical hacker • Always building & learning
 
 ---
 
-<div align="center" style="transform: scale(0.35); transform-origin: top center;"> <pre style="font-size:5px; line-height:4px;">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                                  
+<div align="center" style="transform: scale(0.35); transform-origin: top center;">
+<pre style="font-size:5px; line-height:4px;">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
                                %*                 
                               %%#@                
                               #%                  
@@ -76,10 +76,9 @@ Cybersecurity student • Ethical hacker • Always building & learning
                   *%%@@@@                         
                   #%@@@                           
                  #@%                              
-                                                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-</pre> 
-</div>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+</pre>
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -100,6 +99,4 @@ I'm a cybersecurity student focused on systems programming, reverse engineering,
 </p>
 
 ---
-
-### 🚀 Thanks for stopping by!
 
