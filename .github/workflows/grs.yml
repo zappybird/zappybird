@@ -1,6 +1,6 @@
 name: Update README cards
 
-permissions: 
+permissions:
   contents: write
 
 on:
@@ -20,6 +20,14 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=onedark
           path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=onedark
+          path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
