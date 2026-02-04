@@ -17,7 +17,7 @@ Cybersecurity student • Ethical hacker • Always building & learning
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zappybird&theme=onedark" />
+  <img src="https://github-readme-stats-fo-me.vercel.app/api?username=zappybird&show_icons=true&theme=onedark&hide_border=true&count_private=true&cache_seconds=0" />
 </p>
 
 ---
@@ -32,8 +32,8 @@ Cybersecurity student • Ethical hacker • Always building & learning
 
 ## 📘 Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats-fo-me.vercel.app/api?username=zappybird&show_icons=true&theme=onedark&hide_border=true&count_private=true&cache_seconds=0" />
+<p align="center"> 
+  <img src="https://github-readme-stats-fo-me.vercel.app/api?username=zappybird&show_icons=true&theme=onedark&hide_border=true&count_private=true&cache_seconds=0" /> 
 </p>
 
 ---
