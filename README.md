@@ -33,10 +33,10 @@
 
 # 📊 GitHub Stats:
 
-<!-- Streak Stats --> 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img 
-  <img src="https://github-readme-stats.vercel.app/api?username=zappybird&theme=transparent&title_color=ff4444&icon_color=ff4444&text_color=ffffff&hide_border=false" height="165"
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=zappybird&show_icons=true&theme=transparent&title_color=ff4444&icon_color=ff4444&text_color=ffffff&hide_border=false" 
+    height="165"
   />
 </a>
 
