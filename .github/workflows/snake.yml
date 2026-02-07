@@ -15,13 +15,11 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
-        with:
-          persist-credentials: true
 
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ zappybird }}
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -29,17 +27,14 @@ jobs:
 
       - name: Commit & Push Snake Files
         run: |
-          # Configure Git
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Add generated files to git
           git add dist/github-snake.svg dist/github-snake-dark.svg dist/ocean.gif
 
-          # Check if there are any changes to commit
           if ! git diff --cached --quiet; then
             git commit -m "chore: update snake graphics [skip ci]"
-            git push origin HEAD:${GITHUB_REF}
+            git push
           else
             echo "No changes to commit."
           fi
