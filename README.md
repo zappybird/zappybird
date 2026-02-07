@@ -4,7 +4,9 @@
 <!-- LOC-STATS:START -->
 <img src="./loc-stats.svg" alt="LOC Stats" width="84%" />
 <!-- LOC-STATS:END -->
+
 ---
+
 ## 🐍 Contribution Snake
 <img src="./dist/github-snake.svg#gh-light-mode-only" width="84%" /> 
 <img src="./dist/github-snake-dark.svg#gh-dark-mode-only" width="84%" /> 
