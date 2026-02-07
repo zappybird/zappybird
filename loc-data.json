@@ -250,6 +250,15 @@
         }
       },
       {
+        "name": "loc-temp/Cyber-Projects/Log-analyzer/src/log_analyzer.py",
+        "stats": {
+          "blanks": 38,
+          "blobs": {},
+          "code": 177,
+          "comments": 1
+        }
+      },
+      {
         "name": "loc-temp/Cyber-Projects/Keylogger/config.py",
         "stats": {
           "blanks": 2,
@@ -273,15 +282,6 @@
           "blanks": 8,
           "blobs": {},
           "code": 39,
-          "comments": 1
-        }
-      },
-      {
-        "name": "loc-temp/Cyber-Projects/Log-analyzer/src/log_analyzer.py",
-        "stats": {
-          "blanks": 38,
-          "blobs": {},
-          "code": 177,
           "comments": 1
         }
       },
@@ -464,6 +464,15 @@
           }
         },
         {
+          "name": "loc-temp/Cyber-Projects/Log-analyzer/src/log_analyzer.py",
+          "stats": {
+            "blanks": 38,
+            "blobs": {},
+            "code": 177,
+            "comments": 1
+          }
+        },
+        {
           "name": "loc-temp/Cyber-Projects/Keylogger/config.py",
           "stats": {
             "blanks": 2,
@@ -487,15 +496,6 @@
             "blanks": 8,
             "blobs": {},
             "code": 39,
-            "comments": 1
-          }
-        },
-        {
-          "name": "loc-temp/Cyber-Projects/Log-analyzer/src/log_analyzer.py",
-          "stats": {
-            "blanks": 38,
-            "blobs": {},
-            "code": 177,
             "comments": 1
           }
         },
