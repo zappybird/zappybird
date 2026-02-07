@@ -2,7 +2,7 @@
 <br># 👋 Hi, I'm Carlos (zappybird)<br><br>Cybersecurity student • Ethical hacker • Always building & learning
 
 <!-- LOC-STATS:START -->
-<img src="./loc-stats.svg" width="84%" />
+<img src="./loc-stats.svg" alt="LOC Stats" width="84%" />
 <!-- LOC-STATS:END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zappybird&layout=compact&theme=transparent&hide_border=false&langs_count=8&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
