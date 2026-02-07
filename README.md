@@ -30,10 +30,6 @@
 ---
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=zappybird&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="165" />
-<img src="https://streak-stats.demolab.com?user=zappybird&theme=transparent&hide_border=false" height="165" />
-
----
 
 <!-- Streak Stats --> 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -42,11 +38,6 @@
   height="165" 
   /> 
 </a>
-
-### 🔝 Top Contributed Repo
-<img 
-  src="https://github-contributor-stats.vercel.app/api?username=zappybird&limit=5&theme=transparent&combine_all_yearly_contributions=true" 
-  />
 
 ---
 
