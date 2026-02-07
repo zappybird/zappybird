@@ -1,33 +1,30 @@
 #!/bin/bash
-# ⒸAngelaMos | 2025 | CertGames.com
 
 set -e
 
-echo "Starting LOC counting process..."
+echo "Reading repos.json..."
+REPOS=$(jq -r '.repos[]' repos.json)
 
-WORKSPACE_DIR="$(pwd)"
-REPOS_JSON="$WORKSPACE_DIR/scripts/repos.json"
-OUTPUT_FILE="$WORKSPACE_DIR/loc-data.json"
-TEMP_DIR=$(mktemp -d)
+# Create a temp directory
+WORKDIR="loc-temp"
+rm -rf "$WORKDIR"
+mkdir "$WORKDIR"
 
-echo "Workspace: $WORKSPACE_DIR"
-echo "Temporary directory: $TEMP_DIR"
+TOTAL_JSON="{}"
 
-cd "$TEMP_DIR"
+echo "Cloning repositories and counting LOC..."
 
-echo "Cloning repositories..."
-jq -r '.repos[]' "$REPOS_JSON" | while read -r repo; do
-    echo "  Cloning $repo..."
-    git clone --depth 1 "https://github.com/$repo.git" "$(basename $repo)" 2>/dev/null || echo "Failed to clone $repo"
+for REPO in $REPOS; do
+    echo "Processing $REPO..."
+
+    git clone --depth 1 "https://github.com/$REPO.git" "$WORKDIR/$(basename $REPO)"
+
+    # Run tokei on the repo
+    REPO_JSON=$(tokei "$WORKDIR/$(basename $REPO)" --output json)
+
+    # Merge JSON results
+    TOTAL_JSON=$(jq -s '.[0] * .[1]' <(echo "$TOTAL_JSON") <(echo "$REPO_JSON"))
 done
 
-echo "Running tokei to count lines of code..."
-tokei . --output json --exclude '*.md,*.txt,README*,LICENSE*' > "$OUTPUT_FILE"
-
-echo "Cleaning up temporary directory..."
-cd "$WORKSPACE_DIR"
-rm -rf "$TEMP_DIR"
-
-echo "LOC counting complete! Results saved to $OUTPUT_FILE"
-
-cat "$OUTPUT_FILE" | jq '.'
+echo "$TOTAL_JSON" > loc-data.json
+echo "LOC data written to loc-data.json"
