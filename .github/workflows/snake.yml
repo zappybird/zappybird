@@ -1,0 +1,45 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ zappybird }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=black&color_dots=#d6c9c9,#d69c9c,#d60606,#800303,#4d0202
+
+      - name: Commit & Push Snake Files
+        run: |
+          # Configure Git
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Add generated files to git
+          git add dist/github-snake.svg dist/github-snake-dark.svg dist/ocean.gif
+
+          # Check if there are any changes to commit
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update snake graphics [skip ci]"
+            git push origin HEAD:${GITHUB_REF}
+          else
+            echo "No changes to commit."
+          fi
