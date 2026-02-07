@@ -3,7 +3,7 @@
   <rect width="800" height="320" fill="#000000" rx="10"/>
   <text x="40" y="55" font-family="monospace" font-size="32" fill="#ffffff">444</text>
   <text x="40" y="80" font-family="monospace" font-size="14" fill="#ffffff">LINES OF CODE</text>
-  <text x="760" y="55" font-family="monospace" font-size="24" fill="#ffffff" text-anchor="end">0</text>
+  <text x="760" y="55" font-family="monospace" font-size="24" fill="#ffffff" text-anchor="end">54</text>
   <text x="760" y="75" font-family="monospace" font-size="12" fill="#ffffff" text-anchor="end">FILES</text>
   <line x1="30" y1="100" x2="770" y2="100" stroke="#30363d" stroke-width="1"/>
   <text x="40" y="130" font-family="monospace" font-size="16" fill="#ff4444">TOP LANGUAGES</text>
