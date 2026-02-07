@@ -33,11 +33,12 @@
 
 # 📊 GitHub Stats:
 
+<!-- Streak Stats --> 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img 
-    src="https://streak-stats.demolab.com?user=zappybird&theme=transparent&ring=ff4444&fire=ff4444&currStreakNum=ff4444&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_border=false" 
-    height="165"
-  />
+<img 
+  src="https://streak-stats.demolab.com?user=zappybird&theme=transparent&hide_border=false" 
+  height="165" 
+  /> 
 </a>
 
 ---
