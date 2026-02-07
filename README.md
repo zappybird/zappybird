@@ -5,11 +5,6 @@
 <img src="./loc-stats.svg" alt="LOC Stats" width="84%" />
 <!-- LOC-STATS:END -->
 
----
-
-## 🐍 Contribution Snake
-![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
@@ -40,6 +35,12 @@
   height="165" 
   /> 
 </a>
+
+---
+
+## 🐍 Contribution Snake
+![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
