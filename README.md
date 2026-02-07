@@ -8,8 +8,8 @@
 ---
 
 ## 🐍 Contribution Snake
-<img src="./dist/github-snake.svg#gh-light-mode-only" width="84%" /> 
-<img src="./dist/github-snake-dark.svg#gh-dark-mode-only" width="84%" /> 
+![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
