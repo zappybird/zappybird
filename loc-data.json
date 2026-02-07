@@ -1,1 +1,547 @@
-{"Total":{"blanks":0,"children":{},"code":0,"comments":0,"inaccurate":false,"reports":[]}}
+{
+  "HTML": {
+    "blanks": 14,
+    "children": {
+      "Css": [
+        {
+          "name": "loc-temp/Cyber-Projects/Log-analyzer/templates/results.html",
+          "stats": {
+            "blanks": 1,
+            "blobs": {},
+            "code": 30,
+            "comments": 0
+          }
+        }
+      ],
+      "JavaScript": [
+        {
+          "name": "loc-temp/Cyber-Projects/Log-analyzer/templates/results.html",
+          "stats": {
+            "blanks": 4,
+            "blobs": {},
+            "code": 24,
+            "comments": 0
+          }
+        }
+      ]
+    },
+    "code": 88,
+    "comments": 2,
+    "inaccurate": false,
+    "reports": [
+      {
+        "name": "loc-temp/Cyber-Projects/Log-analyzer/templates/index.html",
+        "stats": {
+          "blanks": 0,
+          "blobs": {},
+          "code": 10,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Log-analyzer/templates/results.html",
+        "stats": {
+          "blanks": 14,
+          "blobs": {
+            "Css": {
+              "blanks": 1,
+              "blobs": {},
+              "code": 30,
+              "comments": 0
+            },
+            "JavaScript": {
+              "blanks": 4,
+              "blobs": {},
+              "code": 24,
+              "comments": 0
+            }
+          },
+          "code": 78,
+          "comments": 2
+        }
+      }
+    ]
+  },
+  "INI": {
+    "blanks": 0,
+    "children": {},
+    "code": 2,
+    "comments": 0,
+    "inaccurate": false,
+    "reports": [
+      {
+        "name": "loc-temp/Cyber-Projects/Keylogger/config.ini",
+        "stats": {
+          "blanks": 0,
+          "blobs": {},
+          "code": 2,
+          "comments": 0
+        }
+      }
+    ]
+  },
+  "Markdown": {
+    "blanks": 111,
+    "children": {},
+    "code": 0,
+    "comments": 234,
+    "inaccurate": false,
+    "reports": [
+      {
+        "name": "loc-temp/Cyber-Projects/Log-analyzer/README.md",
+        "stats": {
+          "blanks": 10,
+          "blobs": {},
+          "code": 0,
+          "comments": 28
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/README.md",
+        "stats": {
+          "blanks": 6,
+          "blobs": {},
+          "code": 0,
+          "comments": 10
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Keylogger/SECURITY.MD",
+        "stats": {
+          "blanks": 36,
+          "blobs": {},
+          "code": 0,
+          "comments": 63
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Keylogger/README.md",
+        "stats": {
+          "blanks": 44,
+          "blobs": {},
+          "code": 0,
+          "comments": 97
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Keylogger/CHANGELOG.md",
+        "stats": {
+          "blanks": 15,
+          "blobs": {},
+          "code": 0,
+          "comments": 36
+        }
+      }
+    ]
+  },
+  "Plain Text": {
+    "blanks": 0,
+    "children": {},
+    "code": 0,
+    "comments": 38,
+    "inaccurate": false,
+    "reports": [
+      {
+        "name": "loc-temp/Cyber-Projects/Log-analyzer/logs/sample.txt",
+        "stats": {
+          "blanks": 0,
+          "blobs": {},
+          "code": 0,
+          "comments": 23
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Log-analyzer/requirements.txt",
+        "stats": {
+          "blanks": 0,
+          "blobs": {},
+          "code": 0,
+          "comments": 15
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Keylogger/keyfile.txt",
+        "stats": {
+          "blanks": 0,
+          "blobs": {},
+          "code": 0,
+          "comments": 0
+        }
+      }
+    ]
+  },
+  "Python": {
+    "blanks": 86,
+    "children": {},
+    "code": 354,
+    "comments": 10,
+    "inaccurate": false,
+    "reports": [
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/anlayzer/__init__.py",
+        "stats": {
+          "blanks": 0,
+          "blobs": {},
+          "code": 0,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/app.py",
+        "stats": {
+          "blanks": 4,
+          "blobs": {},
+          "code": 15,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/anlayzer/capture.py",
+        "stats": {
+          "blanks": 1,
+          "blobs": {},
+          "code": 3,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/anlayzer/detectors.py",
+        "stats": {
+          "blanks": 2,
+          "blobs": {},
+          "code": 7,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/anlayzer/parser.py",
+        "stats": {
+          "blanks": 5,
+          "blobs": {},
+          "code": 24,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/anlayzer/stats.py",
+        "stats": {
+          "blanks": 2,
+          "blobs": {},
+          "code": 6,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Log-analyzer/src/__init__.py",
+        "stats": {
+          "blanks": 1,
+          "blobs": {},
+          "code": 2,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Log-analyzer/app.py",
+        "stats": {
+          "blanks": 5,
+          "blobs": {},
+          "code": 14,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Keylogger/config.py",
+        "stats": {
+          "blanks": 2,
+          "blobs": {},
+          "code": 5,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Keylogger/main.py",
+        "stats": {
+          "blanks": 5,
+          "blobs": {},
+          "code": 14,
+          "comments": 3
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Keylogger/test_logger.py",
+        "stats": {
+          "blanks": 8,
+          "blobs": {},
+          "code": 39,
+          "comments": 1
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Log-analyzer/src/log_analyzer.py",
+        "stats": {
+          "blanks": 38,
+          "blobs": {},
+          "code": 177,
+          "comments": 1
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Keylogger/logger.py",
+        "stats": {
+          "blanks": 13,
+          "blobs": {},
+          "code": 48,
+          "comments": 5
+        }
+      }
+    ]
+  },
+  "Total": {
+    "blanks": 211,
+    "children": {
+      "Html": [
+        {
+          "name": "loc-temp/Cyber-Projects/Log-analyzer/templates/index.html",
+          "stats": {
+            "blanks": 0,
+            "blobs": {},
+            "code": 10,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Log-analyzer/templates/results.html",
+          "stats": {
+            "blanks": 14,
+            "blobs": {
+              "Css": {
+                "blanks": 1,
+                "blobs": {},
+                "code": 30,
+                "comments": 0
+              },
+              "JavaScript": {
+                "blanks": 4,
+                "blobs": {},
+                "code": 24,
+                "comments": 0
+              }
+            },
+            "code": 78,
+            "comments": 2
+          }
+        }
+      ],
+      "Ini": [
+        {
+          "name": "loc-temp/Cyber-Projects/Keylogger/config.ini",
+          "stats": {
+            "blanks": 0,
+            "blobs": {},
+            "code": 2,
+            "comments": 0
+          }
+        }
+      ],
+      "Markdown": [
+        {
+          "name": "loc-temp/Cyber-Projects/Log-analyzer/README.md",
+          "stats": {
+            "blanks": 10,
+            "blobs": {},
+            "code": 0,
+            "comments": 28
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/README.md",
+          "stats": {
+            "blanks": 6,
+            "blobs": {},
+            "code": 0,
+            "comments": 10
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Keylogger/SECURITY.MD",
+          "stats": {
+            "blanks": 36,
+            "blobs": {},
+            "code": 0,
+            "comments": 63
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Keylogger/README.md",
+          "stats": {
+            "blanks": 44,
+            "blobs": {},
+            "code": 0,
+            "comments": 97
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Keylogger/CHANGELOG.md",
+          "stats": {
+            "blanks": 15,
+            "blobs": {},
+            "code": 0,
+            "comments": 36
+          }
+        }
+      ],
+      "Python": [
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/anlayzer/__init__.py",
+          "stats": {
+            "blanks": 0,
+            "blobs": {},
+            "code": 0,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/app.py",
+          "stats": {
+            "blanks": 4,
+            "blobs": {},
+            "code": 15,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/anlayzer/capture.py",
+          "stats": {
+            "blanks": 1,
+            "blobs": {},
+            "code": 3,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/anlayzer/detectors.py",
+          "stats": {
+            "blanks": 2,
+            "blobs": {},
+            "code": 7,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/anlayzer/parser.py",
+          "stats": {
+            "blanks": 5,
+            "blobs": {},
+            "code": 24,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/anlayzer/stats.py",
+          "stats": {
+            "blanks": 2,
+            "blobs": {},
+            "code": 6,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Log-analyzer/src/__init__.py",
+          "stats": {
+            "blanks": 1,
+            "blobs": {},
+            "code": 2,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Log-analyzer/app.py",
+          "stats": {
+            "blanks": 5,
+            "blobs": {},
+            "code": 14,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Keylogger/config.py",
+          "stats": {
+            "blanks": 2,
+            "blobs": {},
+            "code": 5,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Keylogger/main.py",
+          "stats": {
+            "blanks": 5,
+            "blobs": {},
+            "code": 14,
+            "comments": 3
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Keylogger/test_logger.py",
+          "stats": {
+            "blanks": 8,
+            "blobs": {},
+            "code": 39,
+            "comments": 1
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Log-analyzer/src/log_analyzer.py",
+          "stats": {
+            "blanks": 38,
+            "blobs": {},
+            "code": 177,
+            "comments": 1
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Keylogger/logger.py",
+          "stats": {
+            "blanks": 13,
+            "blobs": {},
+            "code": 48,
+            "comments": 5
+          }
+        }
+      ],
+      "Text": [
+        {
+          "name": "loc-temp/Cyber-Projects/Log-analyzer/logs/sample.txt",
+          "stats": {
+            "blanks": 0,
+            "blobs": {},
+            "code": 0,
+            "comments": 23
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Log-analyzer/requirements.txt",
+          "stats": {
+            "blanks": 0,
+            "blobs": {},
+            "code": 0,
+            "comments": 15
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Keylogger/keyfile.txt",
+          "stats": {
+            "blanks": 0,
+            "blobs": {},
+            "code": 0,
+            "comments": 0
+          }
+        }
+      ]
+    },
+    "code": 444,
+    "comments": 284,
+    "inaccurate": false,
+    "reports": []
+  }
+}

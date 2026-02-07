@@ -11,14 +11,14 @@
   <rect x="10" y="10" width="780" height="3" fill="url(#accent-gradient)" rx="1.5"/>
 
   <text x="40" y="55" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="32" font-weight="700" fill="#ffffff">
-    0
+    444
   </text>
   <text x="40" y="80" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="14" fill="#ffffff">
     LINES OF CODE
   </text>
 
   <text x="760" y="55" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="24" font-weight="600" fill="#ffffff" text-anchor="end">
-    0
+    24
   </text>
   <text x="760" y="75" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff" text-anchor="end">
     FILES
@@ -28,6 +28,42 @@
 
   <text x="40" y="130" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="16" font-weight="600" fill="#b30000">
     TOP LANGUAGES
+  </text>
+
+  <text x="40" y="160" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#ffffff">
+    Python
+  </text>
+  <rect x="180" y="148" width="450" height="16" fill="#21262d" rx="4"/>
+  <rect x="180" y="148" width="450.0" height="16" fill="#0080FF" rx="4" opacity="0.8"/>
+  <text x="650" y="160" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff">
+    354
+  </text>
+  <text x="760" y="160" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff" text-anchor="end">
+    79.7%
+  </text>
+
+  <text x="40" y="185" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#ffffff">
+    HTML
+  </text>
+  <rect x="180" y="173" width="450" height="16" fill="#21262d" rx="4"/>
+  <rect x="180" y="173" width="111.86440677966102" height="16" fill="#e34c26" rx="4" opacity="0.8"/>
+  <text x="650" y="185" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff">
+    88
+  </text>
+  <text x="760" y="185" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff" text-anchor="end">
+    19.8%
+  </text>
+
+  <text x="40" y="210" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#ffffff">
+    INI
+  </text>
+  <rect x="180" y="198" width="450" height="16" fill="#21262d" rx="4"/>
+  <rect x="180" y="198" width="2.542372881355932" height="16" fill="#58a6ff" rx="4" opacity="0.8"/>
+  <text x="650" y="210" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff">
+    2
+  </text>
+  <text x="760" y="210" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#ffffff" text-anchor="end">
+    0.5%
   </text>
 
   <text x="780" y="310" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="10" fill="#00FFFF" text-anchor="end">
