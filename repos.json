@@ -1,0 +1,9 @@
+{
+  "repos": [
+   "zappybird/Cyber-Projects", 
+   "zappybird/Keylogger", 
+   "zappybird/Log-analyzer",
+   "zappybird/Network-traffic-analyzer"
+  ],
+  "exclude_languages": ["Markdown", "Text", "json", "yaml"]
+}
