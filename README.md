@@ -36,7 +36,7 @@
 <!-- Streak Stats --> 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 <img 
-  <img src="https://streak-stats.demolab.com?user=zappybird&theme=dark&ring=ff4444&fire=ff4444&currStreakNum=ff4444&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa" height="165" 
+  <img src="https://github-readme-stats.vercel.app/api?username=zappybird&theme=transparent&title_color=ff4444&icon_color=ff4444&text_color=ffffff&hide_border=false" height="165"
   />
 </a>
 
