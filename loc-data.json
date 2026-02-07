@@ -187,6 +187,15 @@
         }
       },
       {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/app.py",
+        "stats": {
+          "blanks": 4,
+          "blobs": {},
+          "code": 15,
+          "comments": 0
+        }
+      },
+      {
         "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/anlayzer/capture.py",
         "stats": {
           "blanks": 1,
@@ -232,15 +241,6 @@
         }
       },
       {
-        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/app.py",
-        "stats": {
-          "blanks": 4,
-          "blobs": {},
-          "code": 15,
-          "comments": 0
-        }
-      },
-      {
         "name": "loc-temp/Cyber-Projects/Log-analyzer/app.py",
         "stats": {
           "blanks": 5,
@@ -268,20 +268,20 @@
         }
       },
       {
-        "name": "loc-temp/Cyber-Projects/Log-analyzer/src/log_analyzer.py",
-        "stats": {
-          "blanks": 38,
-          "blobs": {},
-          "code": 177,
-          "comments": 1
-        }
-      },
-      {
         "name": "loc-temp/Cyber-Projects/Keylogger/test_logger.py",
         "stats": {
           "blanks": 8,
           "blobs": {},
           "code": 39,
+          "comments": 1
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Log-analyzer/src/log_analyzer.py",
+        "stats": {
+          "blanks": 38,
+          "blobs": {},
+          "code": 177,
           "comments": 1
         }
       },
@@ -401,6 +401,15 @@
           }
         },
         {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/app.py",
+          "stats": {
+            "blanks": 4,
+            "blobs": {},
+            "code": 15,
+            "comments": 0
+          }
+        },
+        {
           "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/anlayzer/capture.py",
           "stats": {
             "blanks": 1,
@@ -446,15 +455,6 @@
           }
         },
         {
-          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/app.py",
-          "stats": {
-            "blanks": 4,
-            "blobs": {},
-            "code": 15,
-            "comments": 0
-          }
-        },
-        {
           "name": "loc-temp/Cyber-Projects/Log-analyzer/app.py",
           "stats": {
             "blanks": 5,
@@ -482,20 +482,20 @@
           }
         },
         {
-          "name": "loc-temp/Cyber-Projects/Log-analyzer/src/log_analyzer.py",
-          "stats": {
-            "blanks": 38,
-            "blobs": {},
-            "code": 177,
-            "comments": 1
-          }
-        },
-        {
           "name": "loc-temp/Cyber-Projects/Keylogger/test_logger.py",
           "stats": {
             "blanks": 8,
             "blobs": {},
             "code": 39,
+            "comments": 1
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Log-analyzer/src/log_analyzer.py",
+          "stats": {
+            "blanks": 38,
+            "blobs": {},
+            "code": 177,
             "comments": 1
           }
         },
