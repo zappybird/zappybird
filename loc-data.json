@@ -81,10 +81,10 @@
     ]
   },
   "Markdown": {
-    "blanks": 146,
+    "blanks": 191,
     "children": {},
     "code": 0,
-    "comments": 313,
+    "comments": 452,
     "inaccurate": false,
     "reports": [
       {
@@ -97,30 +97,21 @@
         }
       },
       {
-        "name": "loc-temp/Cyber-Projects/README.md",
-        "stats": {
-          "blanks": 6,
-          "blobs": {},
-          "code": 0,
-          "comments": 10
-        }
-      },
-      {
-        "name": "loc-temp/Cyber-Projects/ReverseShell/readme.md",
-        "stats": {
-          "blanks": 35,
-          "blobs": {},
-          "code": 0,
-          "comments": 79
-        }
-      },
-      {
         "name": "loc-temp/Cyber-Projects/Keylogger/SECURITY.MD",
         "stats": {
           "blanks": 36,
           "blobs": {},
           "code": 0,
           "comments": 63
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Keylogger/CHANGELOG.md",
+        "stats": {
+          "blanks": 15,
+          "blobs": {},
+          "code": 0,
+          "comments": 36
         }
       },
       {
@@ -133,12 +124,30 @@
         }
       },
       {
-        "name": "loc-temp/Cyber-Projects/Keylogger/CHANGELOG.md",
+        "name": "loc-temp/Cyber-Projects/ReverseShell/readme.md",
         "stats": {
-          "blanks": 15,
+          "blanks": 35,
           "blobs": {},
           "code": 0,
-          "comments": 36
+          "comments": 79
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/README.md",
+        "stats": {
+          "blanks": 6,
+          "blobs": {},
+          "code": 0,
+          "comments": 10
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/README.md",
+        "stats": {
+          "blanks": 45,
+          "blobs": {},
+          "code": 0,
+          "comments": 139
         }
       }
     ]
@@ -151,21 +160,21 @@
     "inaccurate": false,
     "reports": [
       {
-        "name": "loc-temp/Cyber-Projects/Log-analyzer/logs/sample.txt",
-        "stats": {
-          "blanks": 0,
-          "blobs": {},
-          "code": 0,
-          "comments": 23
-        }
-      },
-      {
         "name": "loc-temp/Cyber-Projects/Log-analyzer/requirements.txt",
         "stats": {
           "blanks": 0,
           "blobs": {},
           "code": 0,
           "comments": 15
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Log-analyzer/logs/sample.txt",
+        "stats": {
+          "blanks": 0,
+          "blobs": {},
+          "code": 0,
+          "comments": 23
         }
       },
       {
@@ -180,66 +189,12 @@
     ]
   },
   "Python": {
-    "blanks": 86,
+    "blanks": 106,
     "children": {},
-    "code": 354,
+    "code": 435,
     "comments": 10,
     "inaccurate": false,
     "reports": [
-      {
-        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/__init__.py",
-        "stats": {
-          "blanks": 0,
-          "blobs": {},
-          "code": 0,
-          "comments": 0
-        }
-      },
-      {
-        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/capture.py",
-        "stats": {
-          "blanks": 1,
-          "blobs": {},
-          "code": 3,
-          "comments": 0
-        }
-      },
-      {
-        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/detectors.py",
-        "stats": {
-          "blanks": 2,
-          "blobs": {},
-          "code": 7,
-          "comments": 0
-        }
-      },
-      {
-        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/parser.py",
-        "stats": {
-          "blanks": 5,
-          "blobs": {},
-          "code": 24,
-          "comments": 0
-        }
-      },
-      {
-        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/stats.py",
-        "stats": {
-          "blanks": 2,
-          "blobs": {},
-          "code": 6,
-          "comments": 0
-        }
-      },
-      {
-        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/app.py",
-        "stats": {
-          "blanks": 4,
-          "blobs": {},
-          "code": 15,
-          "comments": 0
-        }
-      },
       {
         "name": "loc-temp/Cyber-Projects/Log-analyzer/src/__init__.py",
         "stats": {
@@ -259,6 +214,15 @@
         }
       },
       {
+        "name": "loc-temp/Cyber-Projects/Log-analyzer/src/log_analyzer.py",
+        "stats": {
+          "blanks": 38,
+          "blobs": {},
+          "code": 177,
+          "comments": 1
+        }
+      },
+      {
         "name": "loc-temp/Cyber-Projects/Keylogger/config.py",
         "stats": {
           "blanks": 2,
@@ -268,11 +232,11 @@
         }
       },
       {
-        "name": "loc-temp/Cyber-Projects/Log-analyzer/src/log_analyzer.py",
+        "name": "loc-temp/Cyber-Projects/Keylogger/test_logger.py",
         "stats": {
-          "blanks": 38,
+          "blanks": 8,
           "blobs": {},
-          "code": 177,
+          "code": 39,
           "comments": 1
         }
       },
@@ -286,21 +250,129 @@
         }
       },
       {
-        "name": "loc-temp/Cyber-Projects/Keylogger/test_logger.py",
-        "stats": {
-          "blanks": 8,
-          "blobs": {},
-          "code": 39,
-          "comments": 1
-        }
-      },
-      {
         "name": "loc-temp/Cyber-Projects/Keylogger/logger.py",
         "stats": {
           "blanks": 13,
           "blobs": {},
           "code": 48,
           "comments": 5
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/capture.py",
+        "stats": {
+          "blanks": 1,
+          "blobs": {},
+          "code": 3,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/output.py",
+        "stats": {
+          "blanks": 4,
+          "blobs": {},
+          "code": 10,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/__init__.py",
+        "stats": {
+          "blanks": 0,
+          "blobs": {},
+          "code": 0,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/exceptions.py",
+        "stats": {
+          "blanks": 2,
+          "blobs": {},
+          "code": 6,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/stats.py",
+        "stats": {
+          "blanks": 2,
+          "blobs": {},
+          "code": 6,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/detectors.py",
+        "stats": {
+          "blanks": 2,
+          "blobs": {},
+          "code": 7,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/main.py",
+        "stats": {
+          "blanks": 6,
+          "blobs": {},
+          "code": 23,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/models.py",
+        "stats": {
+          "blanks": 4,
+          "blobs": {},
+          "code": 20,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/filters.py",
+        "stats": {
+          "blanks": 4,
+          "blobs": {},
+          "code": 15,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/constatns.py",
+        "stats": {
+          "blanks": 0,
+          "blobs": {},
+          "code": 2,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/export.py",
+        "stats": {
+          "blanks": 2,
+          "blobs": {},
+          "code": 11,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/visualization.py",
+        "stats": {
+          "blanks": 2,
+          "blobs": {},
+          "code": 9,
+          "comments": 0
+        }
+      },
+      {
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/parser.py",
+        "stats": {
+          "blanks": 5,
+          "blobs": {},
+          "code": 24,
+          "comments": 0
         }
       }
     ]
@@ -313,7 +385,7 @@
     "inaccurate": false,
     "reports": [
       {
-        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/pyptoject.toml",
+        "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/pyproject.toml",
         "stats": {
           "blanks": 24,
           "blobs": {},
@@ -324,7 +396,7 @@
     ]
   },
   "Total": {
-    "blanks": 270,
+    "blanks": 335,
     "children": {
       "Html": [
         {
@@ -381,30 +453,21 @@
           }
         },
         {
-          "name": "loc-temp/Cyber-Projects/README.md",
-          "stats": {
-            "blanks": 6,
-            "blobs": {},
-            "code": 0,
-            "comments": 10
-          }
-        },
-        {
-          "name": "loc-temp/Cyber-Projects/ReverseShell/readme.md",
-          "stats": {
-            "blanks": 35,
-            "blobs": {},
-            "code": 0,
-            "comments": 79
-          }
-        },
-        {
           "name": "loc-temp/Cyber-Projects/Keylogger/SECURITY.MD",
           "stats": {
             "blanks": 36,
             "blobs": {},
             "code": 0,
             "comments": 63
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Keylogger/CHANGELOG.md",
+          "stats": {
+            "blanks": 15,
+            "blobs": {},
+            "code": 0,
+            "comments": 36
           }
         },
         {
@@ -417,70 +480,34 @@
           }
         },
         {
-          "name": "loc-temp/Cyber-Projects/Keylogger/CHANGELOG.md",
+          "name": "loc-temp/Cyber-Projects/ReverseShell/readme.md",
           "stats": {
-            "blanks": 15,
+            "blanks": 35,
             "blobs": {},
             "code": 0,
-            "comments": 36
+            "comments": 79
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/README.md",
+          "stats": {
+            "blanks": 6,
+            "blobs": {},
+            "code": 0,
+            "comments": 10
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/README.md",
+          "stats": {
+            "blanks": 45,
+            "blobs": {},
+            "code": 0,
+            "comments": 139
           }
         }
       ],
       "Python": [
-        {
-          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/__init__.py",
-          "stats": {
-            "blanks": 0,
-            "blobs": {},
-            "code": 0,
-            "comments": 0
-          }
-        },
-        {
-          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/capture.py",
-          "stats": {
-            "blanks": 1,
-            "blobs": {},
-            "code": 3,
-            "comments": 0
-          }
-        },
-        {
-          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/detectors.py",
-          "stats": {
-            "blanks": 2,
-            "blobs": {},
-            "code": 7,
-            "comments": 0
-          }
-        },
-        {
-          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/parser.py",
-          "stats": {
-            "blanks": 5,
-            "blobs": {},
-            "code": 24,
-            "comments": 0
-          }
-        },
-        {
-          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/stats.py",
-          "stats": {
-            "blanks": 2,
-            "blobs": {},
-            "code": 6,
-            "comments": 0
-          }
-        },
-        {
-          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/app.py",
-          "stats": {
-            "blanks": 4,
-            "blobs": {},
-            "code": 15,
-            "comments": 0
-          }
-        },
         {
           "name": "loc-temp/Cyber-Projects/Log-analyzer/src/__init__.py",
           "stats": {
@@ -500,6 +527,15 @@
           }
         },
         {
+          "name": "loc-temp/Cyber-Projects/Log-analyzer/src/log_analyzer.py",
+          "stats": {
+            "blanks": 38,
+            "blobs": {},
+            "code": 177,
+            "comments": 1
+          }
+        },
+        {
           "name": "loc-temp/Cyber-Projects/Keylogger/config.py",
           "stats": {
             "blanks": 2,
@@ -509,11 +545,11 @@
           }
         },
         {
-          "name": "loc-temp/Cyber-Projects/Log-analyzer/src/log_analyzer.py",
+          "name": "loc-temp/Cyber-Projects/Keylogger/test_logger.py",
           "stats": {
-            "blanks": 38,
+            "blanks": 8,
             "blobs": {},
-            "code": 177,
+            "code": 39,
             "comments": 1
           }
         },
@@ -527,15 +563,6 @@
           }
         },
         {
-          "name": "loc-temp/Cyber-Projects/Keylogger/test_logger.py",
-          "stats": {
-            "blanks": 8,
-            "blobs": {},
-            "code": 39,
-            "comments": 1
-          }
-        },
-        {
           "name": "loc-temp/Cyber-Projects/Keylogger/logger.py",
           "stats": {
             "blanks": 13,
@@ -543,18 +570,126 @@
             "code": 48,
             "comments": 5
           }
-        }
-      ],
-      "Text": [
+        },
         {
-          "name": "loc-temp/Cyber-Projects/Log-analyzer/logs/sample.txt",
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/capture.py",
+          "stats": {
+            "blanks": 1,
+            "blobs": {},
+            "code": 3,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/output.py",
+          "stats": {
+            "blanks": 4,
+            "blobs": {},
+            "code": 10,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/__init__.py",
           "stats": {
             "blanks": 0,
             "blobs": {},
             "code": 0,
-            "comments": 23
+            "comments": 0
           }
         },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/exceptions.py",
+          "stats": {
+            "blanks": 2,
+            "blobs": {},
+            "code": 6,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/stats.py",
+          "stats": {
+            "blanks": 2,
+            "blobs": {},
+            "code": 6,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/detectors.py",
+          "stats": {
+            "blanks": 2,
+            "blobs": {},
+            "code": 7,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/main.py",
+          "stats": {
+            "blanks": 6,
+            "blobs": {},
+            "code": 23,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/models.py",
+          "stats": {
+            "blanks": 4,
+            "blobs": {},
+            "code": 20,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/filters.py",
+          "stats": {
+            "blanks": 4,
+            "blobs": {},
+            "code": 15,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/constatns.py",
+          "stats": {
+            "blanks": 0,
+            "blobs": {},
+            "code": 2,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/export.py",
+          "stats": {
+            "blanks": 2,
+            "blobs": {},
+            "code": 11,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/visualization.py",
+          "stats": {
+            "blanks": 2,
+            "blobs": {},
+            "code": 9,
+            "comments": 0
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/src/netanal/parser.py",
+          "stats": {
+            "blanks": 5,
+            "blobs": {},
+            "code": 24,
+            "comments": 0
+          }
+        }
+      ],
+      "Text": [
         {
           "name": "loc-temp/Cyber-Projects/Log-analyzer/requirements.txt",
           "stats": {
@@ -562,6 +697,15 @@
             "blobs": {},
             "code": 0,
             "comments": 15
+          }
+        },
+        {
+          "name": "loc-temp/Cyber-Projects/Log-analyzer/logs/sample.txt",
+          "stats": {
+            "blanks": 0,
+            "blobs": {},
+            "code": 0,
+            "comments": 23
           }
         },
         {
@@ -576,7 +720,7 @@
       ],
       "Toml": [
         {
-          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/pyptoject.toml",
+          "name": "loc-temp/Cyber-Projects/Network-traffic-analyzer/pyproject.toml",
           "stats": {
             "blanks": 24,
             "blobs": {},
@@ -586,10 +730,10 @@
         }
       ]
     },
-    "code": 658,
-    "comments": 363,
+    "code": 739,
+    "comments": 502,
     "inaccurate": false,
     "reports": [],
-    "files": 56
+    "files": 66
   }
 }
