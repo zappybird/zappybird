@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br># 👋 Hi, I'm Carlos (zappybird)<br><br>Cybersecurity student • Ethical hacker • Always building & learning
+# About Me:
+<br>#  Hi, I'm Carlos (zappybird)<br><br>Cybersecurity student • Ethical hacker • Always building & learning
 
 <!-- LOC-STATS:START -->
 <img src="./loc-stats.svg" alt="LOC Stats" width="84%" />
@@ -8,7 +8,7 @@
 
 ---
 
-# 💻 Tech Stack:
+# Tech Stack:
 <p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -26,7 +26,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 <!-- Streak Stats --> 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -38,7 +38,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 ![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
 
