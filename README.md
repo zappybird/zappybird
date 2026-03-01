@@ -1,10 +1,10 @@
 # About Me:
-<br>#  Hi, I'm Carlos (zappybird)<br><br>Cybersecurity student • Ethical hacker • Always building & learning
+<br># Hi, I'm Carlos (zappybird)<br><br>
+Cybersecurity student • Ethical hacker • Always building & learning
 
 <!-- LOC-STATS:START -->
 <img src="./loc-stats.svg" alt="LOC Stats" width="84%" />
 <!-- LOC-STATS:END -->
-
 
 ---
 
@@ -22,18 +22,28 @@
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" /> 
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
-</p> 
+</p>
 
 ---
 
 # GitHub Stats:
 
-<!-- Streak Stats --> 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img 
-  src="https://streak-stats.demolab.com?user=zappybird&theme=transparent&hide_border=false" 
-  height="165" 
-  /> 
+<!-- Streak Stats (Light Mode) -->
+<a href="https://git.io/streak-stats#gh-light-mode-only">
+  <img 
+    src="https://streak-stats.demolab.com?user=zappybird&theme=default&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
+    height="165"
+  />
+</a>
+
+<!-- Streak Stats (Dark Mode) -->
+<a href="https://git.io/streak-stats#gh-dark-mode-only">
+  <img 
+    src="https://streak-stats.demolab.com?user=zappybird&theme=dark&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
+    height="165"
+  />
 </a>
 
 ---
@@ -46,6 +56,7 @@
 
 <div align="center" style="width: 200px; overflow: hidden; transform: scale(0.35); transform-origin: top center;"> 
   <pre style="font-size:3px; line-height:3px;">
+
                                                   
                                @%                 
                               @@@@                
