@@ -21,7 +21,7 @@ jobs:
           user: zappybird
           theme: onedark
           hide_border: true
-          file: profile/streak.svg
+          output: profile/streak.svg
 
       - name: Commit streak.svg
         run: |
