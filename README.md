@@ -28,15 +28,6 @@ Cybersecurity student • Ethical hacker • Always building & learning
 
 # GitHub Stats:
 
-<!-- Streak Stats (Light Mode) -->
-<a href="https://git.io/streak-stats#gh-light-mode-only">
-  <img 
-    src="https://streak-stats.demolab.com?user=zappybird&theme=default&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D"
-    alt="GitHub Streak"
-    height="165"
-  />
-</a>
-
 <!-- Streak Stats (Dark Mode) -->
 <a href="https://git.io/streak-stats#gh-dark-mode-only">
   <img 
