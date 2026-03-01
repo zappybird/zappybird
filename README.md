@@ -28,12 +28,14 @@ Cybersecurity student • Ethical hacker • Always building & learning
 
 # GitHub Stats:
 
-<!-- Local Streak Stats -->
-<img 
-  src="./profile/streak.svg"
-  alt="GitHub Streak"
-  height="165"
-/>
+<!-- Streak Stats (Dark Theme Only) -->
+<a href="https://git.io/streak-stats">
+  <img 
+    src="https://streak-stats.demolab.com?user=zappybird&theme=dark&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
+    height="165"
+  />
+</a>
 
 ---
 
