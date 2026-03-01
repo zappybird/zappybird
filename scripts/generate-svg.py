@@ -4,6 +4,18 @@ import sys
 import json
 from pathlib import Path
 
+# ============================
+#  Custom Language Colors
+# ============================
+LANGUAGE_COLORS = {
+    "Python": "#3572A5",   # blue
+    "TOML": "#FF0000",     # red
+    "HTML": "#E34C26",     # orange
+    "INI": "#FFFFFF",      # white
+}
+
+DEFAULT_COLOR = "#ff4444"  # fallback (your original red)
+
 def format_number(num):
     return f"{num:,}"
 
@@ -39,10 +51,14 @@ def generate_svg(loc_data):
 
     for lang, code in top_langs:
         width = (code / max_code) * max_width
+
+        # Pick correct color
+        bar_color = LANGUAGE_COLORS.get(lang, DEFAULT_COLOR)
+
         svg += f"""
   <text x="40" y="{y}" font-family="monospace" font-size="13" fill="#ffffff">{lang}</text>
   <rect x="180" y="{y-12}" width="{max_width}" height="16" fill="#21262d" rx="4"/>
-  <rect x="180" y="{y-12}" width="{width}" height="16" fill="#ff4444" rx="4"/>
+  <rect x="180" y="{y-12}" width="{width}" height="16" fill="{bar_color}" rx="4"/>
   <text x="650" y="{y}" font-family="monospace" font-size="12" fill="#ffffff">{format_number(code)}</text>
 """
         y += 25
@@ -67,3 +83,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
