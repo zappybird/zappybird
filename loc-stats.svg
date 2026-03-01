@@ -10,21 +10,21 @@
 
   <text x="40" y="160" font-family="monospace" font-size="13" fill="#ffffff">Python</text>
   <rect x="180" y="148" width="450" height="16" fill="#21262d" rx="4"/>
-  <rect x="180" y="148" width="450.0" height="16" fill="#ff4444" rx="4"/>
+  <rect x="180" y="148" width="450.0" height="16" fill="#3572A5" rx="4"/>
   <text x="650" y="160" font-family="monospace" font-size="12" fill="#ffffff">1,419</text>
 
   <text x="40" y="185" font-family="monospace" font-size="13" fill="#ffffff">TOML</text>
   <rect x="180" y="173" width="450" height="16" fill="#21262d" rx="4"/>
-  <rect x="180" y="173" width="67.8646934460888" height="16" fill="#ff4444" rx="4"/>
+  <rect x="180" y="173" width="67.8646934460888" height="16" fill="#FF0000" rx="4"/>
   <text x="650" y="185" font-family="monospace" font-size="12" fill="#ffffff">214</text>
 
   <text x="40" y="210" font-family="monospace" font-size="13" fill="#ffffff">HTML</text>
   <rect x="180" y="198" width="450" height="16" fill="#21262d" rx="4"/>
-  <rect x="180" y="198" width="27.906976744186046" height="16" fill="#ff4444" rx="4"/>
+  <rect x="180" y="198" width="27.906976744186046" height="16" fill="#E34C26" rx="4"/>
   <text x="650" y="210" font-family="monospace" font-size="12" fill="#ffffff">88</text>
 
   <text x="40" y="235" font-family="monospace" font-size="13" fill="#ffffff">INI</text>
   <rect x="180" y="223" width="450" height="16" fill="#21262d" rx="4"/>
-  <rect x="180" y="223" width="0.6342494714587739" height="16" fill="#ff4444" rx="4"/>
+  <rect x="180" y="223" width="0.6342494714587739" height="16" fill="#FFFFFF" rx="4"/>
   <text x="650" y="235" font-family="monospace" font-size="12" fill="#ffffff">2</text>
 </svg>
