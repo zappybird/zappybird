@@ -30,4 +30,3 @@ jobs:
           git add profile/streak.svg
           git commit -m "Update streak" || exit 0
           git push
-
