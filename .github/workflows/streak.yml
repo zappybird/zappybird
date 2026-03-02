@@ -1,0 +1,14 @@
+name: Generate Streak Stats (Disabled)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  disabled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notice
+        run: |
+          echo "The original streak action (DenverCoder1/github-readme-streak-stats) no longer supports GitHub Actions."
+          echo "Streak stats must now be displayed using the external URL:"
+          echo "https://streak-stats.demolab.com?user=zappybird"
