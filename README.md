@@ -31,7 +31,7 @@ Cybersecurity student • Ethical hacker • Always building & learning
 <!-- Streak Stats (Dark Theme Only) -->
 <a href="https://git.io/streak-stats">
   <img 
-    <img src="https://streak-stats.demolab.com?user=zappybird&theme=dark&hide_border=true" />
+     src="https://streak-stats.demolab.com?user=zappybird&theme=dark&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D"
     alt="GitHub Streak"
     height="165"
   />
