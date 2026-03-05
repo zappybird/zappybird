@@ -6,6 +6,11 @@ Cybersecurity student • Ethical hacker • Always building & learning
 
 <table>
 <tr>
+<td colspan="2" align="center">
+  <img src="./profile/top-langs.svg" width="100%" />
+</td>
+</tr>
+<tr>
 <td width="50%" align="center">
   <img src="./profile/stats.svg" />
 </td>
