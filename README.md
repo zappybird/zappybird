@@ -5,8 +5,6 @@
 
 Cybersecurity student • Ethical hacker • Always building & learning
 
----
-
 <!-- LOC-STATS:START -->
 <img src="./loc-stats.svg" alt="LOC Stats" width="100%" />
 <!-- LOC-STATS:END -->
