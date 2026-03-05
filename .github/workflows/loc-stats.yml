@@ -1,5 +1,8 @@
 name: Update LOC Stats
 
+permissions:
+  contents: write
+
 on:
   push:
     branches:
@@ -11,8 +14,6 @@ on:
 jobs:
   update-loc:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
@@ -60,3 +61,4 @@ jobs:
           git add loc-stats.svg loc-data.json README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: update LOC statistics [skip ci]"
           git push
+
