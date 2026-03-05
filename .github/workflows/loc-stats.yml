@@ -8,7 +8,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 0 * * 0'
+    - cron: "0 0 * * 0"
   workflow_dispatch:
 
 jobs:
@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Install Tokei
         run: |
@@ -39,9 +41,7 @@ jobs:
         run: chmod +x scripts/count-loc.sh
 
       - name: Count lines of code
-        run: |
-          cd $GITHUB_WORKSPACE
-          bash scripts/count-loc.sh
+        run: bash scripts/count-loc.sh
 
       - name: Generate SVG
         run: python3 scripts/generate-svg.py
@@ -58,6 +58,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          git pull --rebase origin main
           git add loc-stats.svg loc-data.json README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: update LOC statistics [skip ci]"
           git push
