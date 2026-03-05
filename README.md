@@ -22,7 +22,6 @@ Cybersecurity student • Ethical hacker • Always building & learning
 </tr>
 </table>
 
----
 
 ## Tech Stack
 
@@ -41,7 +40,6 @@ Cybersecurity student • Ethical hacker • Always building & learning
   <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
 </p>
 
----
 
 ## Contribution Snake
 
