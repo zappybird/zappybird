@@ -4,6 +4,10 @@
 
 Cybersecurity student • Ethical hacker • Always building & learning
 
+<!-- LOC-STATS:START -->
+<img src="./loc-stats.svg" alt="LOC Stats" width="84%" />
+<!-- LOC-STATS:END -->
+
 <table>
 <tr>
 <td width="50%" align="center">
@@ -17,10 +21,6 @@ Cybersecurity student • Ethical hacker • Always building & learning
 </td>
 </tr>
 </table>
-
-<!-- LOC-STATS:START -->
-<img src="./loc-stats.svg" alt="LOC Stats" width="84%" />
-<!-- LOC-STATS:END -->
 
 ---
 
